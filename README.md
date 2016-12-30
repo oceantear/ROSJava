@@ -1,9 +1,7 @@
-ROSJava
-
-How to build *.jar for custom
-
-＃＃ mkdir -p ~/rosjava/src 
-##wstool init -j4 ~/rosjava/src https://raw.githubusercontent.com/rosjava/rosjava/kinetic/rosjava.rosinstall
+<br>ROSJava</br>
+<br>How to build *.jar for custom </br>
+## mkdir -p ~/rosjava/src 
+##  wstool init -j4 ~/rosjava/src https://raw.githubusercontent.com/rosjava/rosjava/kinetic/rosjava.rosinstall
   source /opt/ros/kinetic/setup.bash
 ## <br>cd rosjava</br>
 ## <br>rosdep update</br>
