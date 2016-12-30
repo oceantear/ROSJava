@@ -1,4 +1,4 @@
-<br>ROSJava</br>
+<br>Use ROSJava to generate jar file for Android Studio to use</br>
 <br>How to build *.jar for custom </br>
 ## mkdir -p ~/rosjava/src 
 ##  wstool init -j4 ~/rosjava/src https://raw.githubusercontent.com/rosjava/rosjava/kinetic/rosjava.rosinstall
