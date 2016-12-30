@@ -1,0 +1,8 @@
+prefix=/home/jimmy/rosjava/install
+
+Name: jimmy_srv
+Description: Description of jimmy_srv
+Version: 0.3.0
+Cflags: -I/home/jimmy/rosjava/install/include
+Libs: -L/home/jimmy/rosjava/install/lib 
+Requires: message_runtime std_msgs

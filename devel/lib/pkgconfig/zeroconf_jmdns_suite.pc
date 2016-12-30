@@ -1,0 +1,8 @@
+prefix=/home/jimmy/rosjava/devel
+
+Name: zeroconf_jmdns_suite
+Description: Description of zeroconf_jmdns_suite
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/jimmy/rosjava/devel/lib 
+Requires: 

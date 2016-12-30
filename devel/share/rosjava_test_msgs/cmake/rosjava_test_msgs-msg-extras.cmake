@@ -1,0 +1,2 @@
+set(rosjava_test_msgs_MESSAGE_FILES "/home/jimmy/rosjava/src/rosjava_test_msgs/msg/Composite.msg;/home/jimmy/rosjava/src/rosjava_test_msgs/msg/CompositeA.msg;/home/jimmy/rosjava/src/rosjava_test_msgs/msg/CompositeB.msg;/home/jimmy/rosjava/src/rosjava_test_msgs/msg/TestArrays.msg;/home/jimmy/rosjava/src/rosjava_test_msgs/msg/TestHeader.msg;/home/jimmy/rosjava/src/rosjava_test_msgs/msg/TestPrimitives.msg;/home/jimmy/rosjava/src/rosjava_test_msgs/msg/TestString.msg")
+set(rosjava_test_msgs_SERVICE_FILES "/home/jimmy/rosjava/src/rosjava_test_msgs/srv/AddTwoInts.srv")

@@ -1,0 +1,2 @@
+genjava:jimmy_srv:rosjava:rosjava_bootstrap:rosjava_build_tools:rosjava_core:rosjava_extras:rosjava_messages:rosjava_test_msgs:william_srv:zeroconf_jmdns_suite
+-DCATKIN_DEVEL_PREFIX=/home/jimmy/rosjava/devel -DCMAKE_INSTALL_PREFIX=/home/jimmy/rosjava/install -G Unix Makefiles
